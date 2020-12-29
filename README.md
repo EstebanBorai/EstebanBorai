@@ -1,1 +1,3 @@
-## 👨‍💻 I'm Esteban Borai, a Software Developer focused on Rust and TypeScript.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/EstebanBorai/EstebanBorai/main/assets/welcome.gif" height="100" />
+</div>
