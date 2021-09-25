@@ -3,9 +3,8 @@ title: "Installing The Rust Programming Language on Windows"
 description: "A tutorial on installing the Rust Programming Language on Windows."
 categories: [rust, tutorial, windows, install]
 date: 2021-09-13T03:48:00
+lang: "en"
 ---
-
-# Installing The Rust Programming Language on Windows
 
 ## Motivation
 
