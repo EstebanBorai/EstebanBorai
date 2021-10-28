@@ -251,7 +251,7 @@ Date:   Thu Oct 28 19:00:08 2021 -0300
 
 ## Enter the `git branch`
 
-Now we know that we know that `git log` shows us the history of commits we have
+Now we know that `git log` shows us the history of commits we have
 created in our project. If you check on other projects such as the ones hosted
 in GitHub you will see that the `git log` output may be huge.
 
@@ -396,7 +396,7 @@ Date:   Thu Oct 28 19:34:45 2021 -0300
 
     fix(division): throw on divider equals 0
 
-commit de154de77e4901f5c8a946080fce47bb083cdd93 (master)
+commit de154de77e4901f5c8a946080fce47bb083cdd93 (main)
 Author: Esteban Borai <estebanborai@gmail.com>
 Date:   Thu Oct 28 19:07:37 2021 -0300
 
