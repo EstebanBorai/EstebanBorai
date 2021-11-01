@@ -7,20 +7,21 @@ lang: "en"
 preview_image_url: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
 ---
 
-If you are getting involved into software development, you may heard about Git
-and GitHub, both of them are tools using on a daily basis by most software
+If you are learning about software development, you may heard about Git and
+GitHub many times. Both are tools used on a daily basis by most software
 developers.
 
 Git is a _version control system_ software used to manage versions of a set of
-files. This set of files is called "repository".
+files and directories, using Git terms, this set of _files and directories_ is
+actually called a "Repository".
 
-> Before reading further is important to note that basic system's terminal knowledge is assumed. You will have to create files, delete files, create directories and move between directories to follow this tutorial.
+> Before reading further it's important to note that basic usage of the terminal is required. You will need to create files, delete files, as well as directories and also walk through directories.
 
 ## Installing Git
 
-Before getting started, you may need to install Git in your system, there's
-many ways to install Git in your system based on which operative system you are
-using and what's your preferred approach.
+Git must be installed in your system to go through, there's
+many ways to install Git, it may vary depending on which operative system you
+are using and what's your preferred approach.
 
 Official binaries to install Git are available [here](https://git-scm.com/downloads).
 Other approaches are enumerated below for most popular operative systems.
