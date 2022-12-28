@@ -10,6 +10,6 @@
     <a href="https://www.linkedin.com/in/esteban-b-241ba0135/">linkedin</a> ⌘
     <a href="https://twitter.com/EstebanBorai">twitter</a> ⌘
     <a href="https://estebanborai.itch.io/">itch.io</a> ⌘
-    <a href="http://discordapp.com/channels/@me/656520606790975519">discord</a>
+    <a href="https://discord.com/channels/@me/764229146854817802">discord</a>
   </samp>
 </p>
