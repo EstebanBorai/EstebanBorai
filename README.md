@@ -8,7 +8,7 @@
     <a href="https://estebanborai.com/notes">notes</a> ⌘
     <a href="https://stackoverflow.com/users/9888500/esteban-borai">stackoverflow</a> ⌘
     <a href="https://www.linkedin.com/in/esteban-b-241ba0135/">linkedin</a> ⌘
-    <a href="https://twitter.com/EstebanBorai">twitter</a> ⌘
+    <a href="https://hachyderm.io/@EstebanBorai">hachyderm.io</a> ⌘
     <a href="https://estebanborai.itch.io/">itch.io</a> ⌘
     <a href="https://discord.com/channels/@me/764229146854817802">discord</a>
   </samp>
