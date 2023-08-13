@@ -5,7 +5,7 @@
 <p align="center">
   <samp>
     <a href="https://estebanborai.com">website</a> ⌘
-    <a href="https://estebanborai.com/notes">notes</a> ⌘
+    <a href="https://estebanborai.com/en/notes">notes</a> ⌘
     <a href="https://stackoverflow.com/users/9888500/esteban-borai">stackoverflow</a> ⌘
     <a href="https://www.linkedin.com/in/esteban-b-241ba0135/">linkedin</a> ⌘
     <a href="https://hachyderm.io/@EstebanBorai">hachyderm.io</a> ⌘
